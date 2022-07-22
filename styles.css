@@ -1,1 +1,97 @@
-/* Write your CSS here! */
+html {
+    font-family: Arial;
+}
+
+#overview {
+    border: 3px solid midnightblue;
+    background-color: gold;
+}
+
+#mistborn {
+    border: 3px solid maroon;
+    background-color: grey;
+}
+
+#stormlight {
+    border: 3px solid navy;
+    background-color: orangered;
+}
+
+#warbreaker {
+    border: 3px solid purple;
+    background-color: darkgreen;
+}
+
+#elantris {
+    border: 3px solid teal;
+    background-color: darkgoldenrod;
+}
+
+#whitesand {
+    border: 3px solid midnightblue;
+    background-color: bisque;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+    text-align: center;
+}
+
+main {
+    padding: 25px 50px 75px 50px;
+}
+
+article {
+    padding-bottom: 25px;
+}
+
+body {
+    margin: 80px;
+    background-image: url('images/stars.jpg');
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ footer {
+    text-align: center;
+    color: azure;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.comments {
+    text-align: center;
+}
